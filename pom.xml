@@ -6,7 +6,7 @@
 
   <groupId>com.bitsteam</groupId>
   <artifactId>test-github-actions</artifactId>
-  <version>1.0</version>
+  <version>1.01</version>
 
   <name>test-github-actions</name>
   <!-- FIXME change it to the project's website -->
